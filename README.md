@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c191154d-c654-4179-b444-95a929075e75)<h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
+<h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.arkatechture.com/hubfs/Data%20Flow%20Generic-gif-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pk2580&label=Profile%20views&color=0e75b6&style=flat" alt="pk2580" /> </p>
